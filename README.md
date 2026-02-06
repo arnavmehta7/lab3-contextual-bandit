@@ -11,22 +11,22 @@ Before submitting your Lab 3 assignment, ensure that **all items below are compl
 
 ## 🔹 Repository and Branching
 
-- The repository is correctly created on GitHub.
-- All work is committed to **exactly one branch** named
+[x] The repository is correctly created on GitHub.
+[x] All work is committed to **exactly one branch** named
 `firstname_U20230xxx`.
-- **No work is pushed to `master**`.
-- The correct branch is pushed to GitHub.
+[x] **No work is pushed to `master**`.
+[x] The correct branch is pushed to GitHub.
 
 ---
 
 ## 🔹 Notebook Submission
 
-- Exactly **one** Jupyter Notebook (`.ipynb`) is submitted.
-- The notebook is placed at the **root of the repository**.
-- The notebook is named **exactly**:
+[x] Exactly **one** Jupyter Notebook (`.ipynb`) is submitted.
+[x] The notebook is placed at the **root of the repository**.
+[x] The notebook is named **exactly**:
 `lab3_results_<roll_number>.ipynb`.
-- The notebook runs **top to bottom without errors**.
-- All outputs (plots, tables, metrics) are visible in the notebook.
+[x] The notebook runs **top to bottom without errors**.
+[x] All outputs (plots, tables, metrics) are visible in the notebook.
 
 ---
 
